@@ -3,6 +3,10 @@
     background: none;
 }
 
+h1.heavyH1 {
+    font-weight: bold;
+}
+
 .sectionLight {
     background-color: #eceeef;
     padding: 2rem;
